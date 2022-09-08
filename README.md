@@ -1,4 +1,4 @@
-## ClassicM Website Application
+# ClassicM Website Application
 ClassicM for Documentary Movies, An online store for shopping and purchasing documentaries. Developed in (2022).
 
 ![Hello World](https://user-images.githubusercontent.com/110013767/189065093-f3f0225d-e9ce-480d-bc73-ae0aa0e9c481.gif)
@@ -27,3 +27,7 @@ ClassicM for Documentary Movies, An online store for shopping and purchasing doc
 ![registeration](https://user-images.githubusercontent.com/110013767/189069414-5183bbd7-6b8b-499e-884f-aea1bee65ca6.png)
 ![registeration inaction](https://user-images.githubusercontent.com/110013767/189069383-37951a20-bd51-4b87-8423-798919d2f4c6.png)
 
+### Purchasing
+- Preview full details.
+- Special prices changing for more copies.
+![1](https://user-images.githubusercontent.com/110013767/189072410-b88af24b-6c98-4728-8779-9f0a657b71b3.gif)
