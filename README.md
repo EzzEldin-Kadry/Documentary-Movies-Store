@@ -22,6 +22,32 @@ ClassicM for Documentary Movies, An online store for shopping and purchasing doc
  7. Moderators also assign a format type for the movie copies ex: Blu-ray, HD DVD, …etc.  
  8. Moderators can add different companies to the website for the companies users.
 
+
+## TECHS & Tools Used:
+- ASP.NET CORE 6 MVC
+- Visual Studio 2022
+- Microsoft SQL Server
+- Entity Framework Core
+- LINQ
+- .NET Core Identity 
+- Mail Kit & Mime Kit (Authentication)
+- External Logins (Facebook)
+- HTML5 /(CSS & Bootstrap)
+- Repository Pattern
+- N-Tier Architecture
+- Stripe Payment Service
+- TinyMCE HTML Editor
+- jQuery DataTables
+- SweetAlert2
+- Toaster Alerts
+
+
+## Tools to Run
+- Microsoft SQL Server
+- Visual Studio
+- .NET Core 6 Runtime
+
+
 ## FULL PREVIEW
 
 ![registeration](https://user-images.githubusercontent.com/110013767/189069414-5183bbd7-6b8b-499e-884f-aea1bee65ca6.png)
