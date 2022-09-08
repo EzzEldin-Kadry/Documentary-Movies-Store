@@ -49,7 +49,7 @@ ClassicM for Documentary Movies, An online store for shopping and purchasing doc
 
 
 ## FULL PREVIEW
-
+- Registering a user.
 ![registeration](https://user-images.githubusercontent.com/110013767/189069414-5183bbd7-6b8b-499e-884f-aea1bee65ca6.png)
 ![registeration inaction](https://user-images.githubusercontent.com/110013767/189069383-37951a20-bd51-4b87-8423-798919d2f4c6.png)
 
