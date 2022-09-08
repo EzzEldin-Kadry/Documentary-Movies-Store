@@ -35,7 +35,7 @@
 - .NET Core Identity 
 - Mail Kit & Mime Kit (Authentication)
 - External Logins (Facebook)
-- HTML5 /(CSS & Bootstrap)
+- HTML5 /(CSS & Bootstrap & JavaScript)
 - Repository Pattern
 - N-Tier Architecture
 - Stripe Payment Service
