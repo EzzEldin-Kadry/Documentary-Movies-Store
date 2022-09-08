@@ -6,6 +6,8 @@
 ---
 
 **README READ** :watch:  : **01:04** 
+---
+*Press* `.` *For Perfect Preview of the code*
 ## :black_nib: Description
 
  1. Customer user can register/login to the website.
