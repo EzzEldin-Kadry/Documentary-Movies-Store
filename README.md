@@ -44,7 +44,6 @@
 - SweetAlert2
 - Toaster Alerts
 
-
 ## :black_nib: Tools to Run
 - Microsoft SQL Server
 - Visual Studio
@@ -53,16 +52,21 @@
 
 ## :black_nib: FULL PREVIEW
 - Registering a user.
+---
 ![registeration](https://user-images.githubusercontent.com/110013767/189069414-5183bbd7-6b8b-499e-884f-aea1bee65ca6.png)
+---
 ![registeration inaction](https://user-images.githubusercontent.com/110013767/189069383-37951a20-bd51-4b87-8423-798919d2f4c6.png)
 
 ### :black_nib: Purchasing:
 - Preview full details.
 - Special prices changing for more copies.
+---
 ![1](https://user-images.githubusercontent.com/110013767/189072410-b88af24b-6c98-4728-8779-9f0a657b71b3.gif)
 ### :black_nib: Payment:
 ![payment](https://user-images.githubusercontent.com/110013767/189074248-adcb3e72-75ee-44f1-891c-4ed3daf5cdf4.png)
+---
 ![order placed](https://user-images.githubusercontent.com/110013767/189073964-8808138f-82c2-4076-afab-6c363f8f1395.png)
 ### :black_nib: Orders Details:
 ![order details](https://user-images.githubusercontent.com/110013767/189073968-a311c292-77e9-48a4-aa49-a2985f3d5465.png)
+---
 ![order details 2](https://user-images.githubusercontent.com/110013767/189074779-85de42ec-d20f-4873-9129-ad3f60231455.png)
