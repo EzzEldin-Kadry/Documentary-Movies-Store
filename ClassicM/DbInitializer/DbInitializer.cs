@@ -46,13 +46,13 @@ namespace ClassicM.DbInitializer
                 //create admin user if roles are not created
                 _userManager.CreateAsync(new ApplicationUser
                 {
-                    UserName = "admin_creator1457@gmail.com",
-                    Email = "admin_creator1457@gmail.com",
+                    UserName = "admin_creator1457@Admin.com",
+                    Email = "admin_creator1457@Admin.com",
                     Name = "Master Admin",
                     PhoneNumber = "11111114444445555",
                 }, "Admin@98521").GetAwaiter().GetResult();
 
-                ApplicationUser user = _db.ApplicationUsers.FirstOrDefault(x => x.Email == "admin_creator1457@gmail.com");
+                ApplicationUser user = _db.ApplicationUsers.FirstOrDefault(x => x.Email == "admin_creator1457@Admin.com");
                 _userManager.AddToRoleAsync(user, SD.Role_Admin).GetAwaiter().GetResult();
             }
 
