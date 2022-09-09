@@ -50,7 +50,7 @@
 - .NET Core 6 Runtime
 
 
-## :black_nib: FULL PREVIEW
+## :black_nib: Quick PREVIEW
 - Registering a user.
 ---
 ![registeration](https://user-images.githubusercontent.com/110013767/189069414-5183bbd7-6b8b-499e-884f-aea1bee65ca6.png)
