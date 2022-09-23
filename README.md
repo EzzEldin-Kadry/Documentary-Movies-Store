@@ -1,5 +1,5 @@
 # :point_right: ClassicM Website Application :point_left:
-:black_nib: ClassicM for Documentary Movies, An online store for shopping and purchasing documentaries. Developed in (Aug - 2022).
+:black_nib: ClassicM for Documentary Movies, An online store for shopping and purchasing documentaries. Implemented in (Aug 2022).
 
 ![Hello World](https://user-images.githubusercontent.com/110013767/189065093-f3f0225d-e9ce-480d-bc73-ae0aa0e9c481.gif)
 
