@@ -1,4 +1,4 @@
-# :black_nib: ClassicM Website Application 
+# :black_nib: ClassicM Website Project 
 ClassicM for Documentary Movies, An online store for shopping and purchasing documentaries. Implemented in (Aug 2022).
 
 *This project has been created and developed solely by me, Ezzeldin Kadry, as an individual effort*
